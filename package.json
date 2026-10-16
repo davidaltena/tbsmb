@@ -1,0 +1,1 @@
+{"name":"better-smb-podcast-dashboard","private":true,"type":"module","scripts":{"test":"node --test","check":"node --check app.js && node --check data.js"}}

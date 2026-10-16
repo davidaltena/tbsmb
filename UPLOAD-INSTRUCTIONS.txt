@@ -1,0 +1,13 @@
+PUBLISH YOUR DASHBOARD
+
+1. Unzip this download.
+2. Open https://github.com/davidaltena/tbsmb
+3. Select Add file > Upload files.
+4. Drag index.html into the upload area (it contains everything needed).
+5. Commit changes to main. Your existing README can stay.
+6. Wait for GitHub Pages to finish, then open https://davidaltena.github.io/tbsmb/
+
+Choose Explore sample data to try it, or Add your data to import analytics.
+This version has no automatic Spotify or Apple account connection. Imports stay in your browser.
+
+You can also double-click index.html to try the dashboard locally before uploading.
